@@ -259,7 +259,7 @@ then send post/s link__**
 **__send link with** '/b/', **bot's username and message id, you might want to install some unofficial client to get the id like below__**
 
 ```
-https://t.me/b/botusername/4321
+https://t.me/khaan_films
 ```
 
 **MULTI POSTS**
@@ -267,9 +267,9 @@ https://t.me/b/botusername/4321
 **__send public/private posts link as explained above with formate "from - to" to send multiple messages like below__**
 
 ```
-https://t.me/xxxx/1001-1010
+https://www.cimraankhaan.com
 
-https://t.me/c/xxxx/101 - 120
+https://www.khaanfilms.com
 ```
 
 **__note that space in between doesn't matter__**
