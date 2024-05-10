@@ -251,8 +251,17 @@ USAGE = """**FOR PUBLIC CHATS**
 
 **FOR PRIVATE CHATS**
 
-**__first send invite link of the chat (unnecessary if the account of string session already member of the chat)
-then send post/s link__**
+**__A stable telegram bot to get restricted messages with custom thumbnail support , made by Mahesh Chauhan.
+works for both public and private chats
+Custom thumbnail support for Pvt medias
+supports text and webpage media messages
+Faster speed
+Forcesubscribe available
+To save from bots send link in this format : t.me/b/bot_username/message_id (use plus messenger for message_id)
+/batch - (For owner only) Use this command to save upto 100 files from a pvt or public restricted channel at once.
+/cancel - Use this to stop batch
+Time delay is added to avoid FloodWait and keep user account safe.
+__**
 
 **FOR BOT CHATS**
 
